@@ -1,0 +1,1 @@
+document.stories.everyItem().footnotes.everyItem().texts.everyItem().applyParagraphStyle(app.selection[0].appliedParagraphStyle, true);
