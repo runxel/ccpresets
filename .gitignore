@@ -30,3 +30,238 @@ Soft_Warming.look
 TealOrangePlusContrast.3DL
 TensionGreen.3DL
 filmstock_50.3dl
+
+# PS/Actions
+Commands.atn
+Frames.atn
+"Image Effects.atn"
+"LAB - Black & White Technique.atn"
+Production.atn
+"Stars Trails.atn"
+"Text Effects.atn"
+Textures.atn
+"Video Actions.atn"
+
+# PS/Black and White
+"Blue Filter.blw"
+Darker.blw
+"Green Filter.blw"
+"High Contrast Blue Filter.blw"
+"High Contrast Red Filter.blw"
+Infrared.blw
+Lighter.blw
+"Maximum Black.blw"
+"Maximum White.blw"
+"Neutral Density.blw"
+"Red Filter.blw"
+"Yellow Filter.blw"
+
+# PS/Brushes
+"Converted Legacy Tool Presets.abr"
+"Legacy Brushes.abr"
+
+# PS/Channel Mixer
+"Black & White Infrared (RGB).cha"
+"Black & White with Blue Filter (RGB).cha"
+"Black & White with Green Filter (RGB).cha"
+"Black & White with Orange Filter (RGB).cha"
+"Black & White with Red Filter (RGB).cha"
+"Black & White with Yellow Filter (RGB).cha"
+
+# PS/Color Books
+"ANPA Color.acb"
+"DIC Color Guide.acb"
+FOCOLTONE.acb
+"HKS E Process.acb"
+"HKS E.acb"
+"HKS K Process.acb"
+"HKS K.acb"
+"HKS N Process.acb"
+"HKS N.acb"
+"HKS Z Process.acb"
+"HKS Z.acb"
+"PANTONE solid coated.acb"
+"PANTONE solid uncoated.acb"
+"PANTONE+ CMYK Coated.acb"
+"PANTONE+ CMYK Uncoated.acb"
+"PANTONE+ Color Bridge Coated.acb"
+"PANTONE+ Color Bridge Uncoated.acb"
+"PANTONE+ Metallic Coated.acb"
+"PANTONE+ Pastels & Neons Coated.acb"
+"PANTONE+ Pastels & Neons Uncoated.acb"
+"PANTONE+ Premium Metallics Coated.acb"
+"PANTONE+ Solid Coated.acb"
+"PANTONE+ Solid Uncoated.acb"
+TRUMATCH.acb
+
+# PS/Color Swatches
+"ANPA Colors.aco"
+"DIC Color Guide.aco"
+"DIC Swatch ReadMe.pdf"
+"FOCOLTONE Colors.aco"
+"HKS E Process.aco"
+"HKS E.aco"
+"HKS K Process.aco"
+"HKS K.aco"
+"HKS N Process.aco"
+"HKS N.aco"
+"HKS Z Process.aco"
+"HKS Z.aco"
+"Mac OS.aco"
+"PANTONE solid coated.aco"
+"PANTONE solid uncoated.aco"
+"PANTONE+ CMYK Coated.aco"
+"PANTONE+ CMYK Uncoated.aco"
+"PANTONE+ Color Bridge Coated.aco"
+"PANTONE+ Color Bridge Uncoated.aco"
+"PANTONE+ Metallic Coated.aco"
+"PANTONE+ Pastels & Neons Coated.aco"
+"PANTONE+ Pastels & Neons Uncoated.aco"
+"PANTONE+ Premium Metallics Coated.aco"
+"PANTONE+ Solid Coated.aco"
+"PANTONE+ Solid Uncoated.aco"
+"Paint Color Swatches.aco"
+"Photo Filter Colors.aco"
+"TRUMATCH Colors.aco"
+"Visi Bone ReadMe.pdf"
+VisiBone.aco
+VisiBone2.aco
+"Web Hues.aco"
+"Web Safe Colors.aco"
+"Web Spectrum.aco"
+Windows.aco
+
+# PS/Curves
+"Color Negative (RGB).acv"
+"Cross Process (RGB).acv"
+"Darker (RGB).acv"
+"Increase Contrast (RGB).acv"
+"Lighter (RGB).acv"
+"Linear Contrast (RGB).acv"
+"Medium Contrast (RGB).acv"
+"Negative (RGB).acv"
+"Strong Contrast (RGB).acv"
+
+# PS/Hue and Saturation
+Cyanotype.ahu
+"Increase Saturation More.ahu"
+"Increase Saturation.ahu"
+"Old Style.ahu"
+"Red Boost.ahu"
+Sepia.ahu
+"Strong Saturation.ahu"
+"Yellow Boost.ahu"
+
+# PS/Image Size
+"g1_1024 x 768 px 72 ppi.IMZ"
+"g1_1136 x 640 px 144 ppi.IMZ"
+"g1_1366 x 768 px 72 ppi.IMZ"
+"g1_960 x 640 px 144 ppi.IMZ"
+"g2_A4 210 x 297 mm 300 dpi.IMZ"
+"g2_A6 105 x 148 mm 300 dpi.IMZ"
+"g2_Legal 8.5 x 14 in 300 dpi.IMZ"
+"g2_Letter 8.5 x 11 in 300 dpi.IMZ"
+"g3_11 x 14 in 300 dpi.IMZ"
+"g3_4 x 6 in 300 dpi.IMZ"
+"g3_5 x 7 in 300 dpi.IMZ"
+"g3_8 x 10 in 300 dpi.IMZ"
+
+# PS/Levels
+Darker.alv
+"Increase Contrast 1.alv"
+"Increase Contrast 2.alv"
+"Increase Contrast 3.alv"
+"Lighten Shadows.alv"
+Lighter.alv
+"Midtones Brighter.alv"
+"Midtones Darker.alv"
+
+# PS/Patterns
+"Artists Brushes Canvas.pat"
+"Color Paper.pat"
+"Erodible Textures.pat"
+"Nature Patterns.pat"
+"Rock Patterns.pat"
+
+# PS/Scripts
+"ArtBoards To Files.jsx"
+"ArtBoards To PDF.jsx"
+ArtboardExport.inc
+"Conditional Mode Change.jsx"
+ContactSheetII.jsx
+"Delete All Empty Layers.jsx"
+Event Scripts Only
+"Export For Aero.jsx"
+"Export Layers To Files.jsx"
+ExportColorLookupTables.jsx
+"Fit Image.jsx"
+"Flatten All Layer Effects.jsx"
+"Flatten All Masks.jsx"
+"Image Processor.jsx"
+"Layer Comps To Files.jsx"
+"Layer Comps To PDF.jsx"
+"Lens Correct.jsx"
+"Load DICOM.jsx"
+"Load Files into Stack.jsx"
+"Merge To HDR.jsx"
+Photomerge.jsx
+"Script Events Manager.jsx"
+Stack Scripts Only
+Statistics.jsx
+generate.jsx
+
+# PS/Scripts/Event Scripts Only
+"Clean Listener.jsx"
+"Display Camera Maker.jsx"
+"Open As Layer.jsx"
+Resize.jsx
+"Save Extra JPEG.jsx"
+"Update File Info.jsx"
+"Warn If RGB.jsx"
+Welcome.jsx
+
+# PS/Scripts/Stack Scripts Only
+ArrayPolyfills.jsx
+BezierCurve.jsx
+CreateImageStack.jsx
+Geometry.jsx
+LatteUI.jsx
+LensCorrect.exv
+LoadLayers.exv
+M2HDR.exv
+PMBlendingProgress.exv
+PMDialog.exv
+P_AutoAlign_Interactive_87x38.png
+PolyClip.jsx
+SP_AutoAlign_Automatic_87x38.png
+SP_AutoAlign_Automatic_87x38@2X.png
+SP_AutoAlign_Automatic_87x38@2X@Dark.png
+SP_AutoAlign_Automatic_87x38@Dark.png
+SP_AutoAlign_Collage_87x38.png
+SP_AutoAlign_Collage_87x38@2X.png
+SP_AutoAlign_Collage_87x38@2X@Dark.png
+SP_AutoAlign_Collage_87x38@Dark.png
+SP_AutoAlign_Cylindrical_87x38.png
+SP_AutoAlign_Cylindrical_87x38@2X.png
+SP_AutoAlign_Cylindrical_87x38@2X@Dark.png
+SP_AutoAlign_Cylindrical_87x38@Dark.png
+SP_AutoAlign_Perspective_87x38.png
+SP_AutoAlign_Perspective_87x38@2X.png
+SP_AutoAlign_Perspective_87x38@2X@Dark.png
+SP_AutoAlign_Perspective_87x38@Dark.png
+SP_AutoAlign_Reposition_87x38.png
+SP_AutoAlign_Reposition_87x38@2X.png
+SP_AutoAlign_Reposition_87x38@2X@Dark.png
+SP_AutoAlign_Reposition_87x38@Dark.png
+SP_AutoAlign_Spherical_87x38.png
+SP_AutoAlign_Spherical_87x38@2X.png
+SP_AutoAlign_Spherical_87x38@2X@Dark.png
+SP_AutoAlign_Spherical_87x38@Dark.png
+StackSupport.jsx
+Statistics.exv
+Terminology.jsx
+
+# PS/Styles
+"Abstract Styles.asl"
+
+
