@@ -1,0 +1,32 @@
+# .gitignore for https://github.com/runxel/ccpresets/
+
+# Discard all pre-installed presets
+
+# PS/3DLUTs
+2Strip.look
+3Strip.look
+"Bleach Bypass.look"
+Candlelight.CUBE
+Crisp_Warm.look
+Crisp_Winter.look
+DropBlues.3DL
+EdgyAmber.3DL
+FallColors.look
+FoggyNight.3DL
+"Fuji ETERNA 250D Fuji 3510 (by Adobe).cube"
+"Fuji ETERNA 250D Kodak 2395 (by Adobe).cube"
+"Fuji F125 Kodak 2393 (by Adobe).cube"
+"Fuji F125 Kodak 2395 (by Adobe).cube"
+"Fuji REALA 500D Kodak 2393 (by Adobe).cube"
+FuturisticBleak.3DL
+HorrorBlue.3DL
+"Kodak 5205 Fuji 3510 (by Adobe).cube"
+"Kodak 5218 Kodak 2383 (by Adobe).cube"
+"Kodak 5218 Kodak 2395 (by Adobe).cube"
+LateSunset.3DL
+Moonlight.3DL
+NightFromDay.CUBE
+Soft_Warming.look
+TealOrangePlusContrast.3DL
+TensionGreen.3DL
+filmstock_50.3dl
