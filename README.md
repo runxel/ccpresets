@@ -10,7 +10,8 @@ See also my scripts, placed in seperate repos:
 ## Where to put
 
 ### On Mac 🍎
-`/Applications/<app>/Presets/`
+Default: `/Applications/<app>/Presets/`  
+InDesign is some kind of outlier, tho. They also use `/Users/<user>/Library/Preferences/Adobe InDesign/<ver>/<lang>/`
 
 ### On Windows
 - `C:\Program Files\Adobe\<app>\Presets\` – local for this PC, but every user  
