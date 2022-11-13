@@ -1,0 +1,5 @@
+# .gitattributes for https://github.com/runxel/ccpresets/
+
+*		text=auto
+
+*.jsx	linguist-language=JavaScript
